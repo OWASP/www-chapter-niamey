@@ -8,7 +8,7 @@ region: Africa
 ---
 
 ## OWASP Niamey,Niger
-Welcome to the Tehran, Iran Chapter homepage. The chapter leader is <a href="mailto:issoufou.ibrahim@owasp.org">Issoufou Ibrahim</a>.
+Welcome to the Niamey, Niger Chapter homepage. The chapter leader is <a href="mailto:issoufou.ibrahim@owasp.org">Issoufou Ibrahim</a>.
 In this chapter, we aim to organize 4 local chapter meetings per year. Any suggestions for speakers or venue? Feel free to reach out to us!
 
 ## Participation

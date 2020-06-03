@@ -1,7 +1,9 @@
-### Niamey Information
-* Provide Group Information
+### Chapter Information
+
+* Niamey, Niger
 
 ### Social Links
-* [Meetup](#)
 
+* [Meetup](https://www.meetup.com/OWASP-Niamey-Chapter/)
+* [@OWASPNiamey on Twitter](https://twitter.com/owaspne)
 

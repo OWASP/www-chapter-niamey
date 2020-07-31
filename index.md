@@ -4,6 +4,9 @@ layout: col-sidebar
 title: OWASP Niamey
 tags: Niger
 region: Africa
+meetup-group: OWASP-Niamey-Chapter
+country: Niger
+postal-code: 
 
 ---
 
